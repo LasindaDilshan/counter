@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Redux Toolkit is the recommended way to implement Redux global state management in React apps.This sample app have basic react-redux implementations.
+
 ## Available Scripts
 
 In the project directory, you can run:
